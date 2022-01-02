@@ -1,8 +1,8 @@
-# 딥러닝 프로젝트 - 스터디 1조 
+# 머신러닝 프로젝트 - 스터디 4조
 
 ## 주제선정 및 배경
 
-:seedling: **예비 카페 창업자를 위한 서울특별시 카페 창업 상권 위험도 분석**
+:bulb:**예비 카페 창업자를 위한 서울특별시 카페 창업 상권 위험도 분석**
 
 ![tree](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c5299ae5-f3da-4d3b-ab9a-24ea46c1542c/%EC%B0%BD%EC%97%85.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220102%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220102T073927Z&X-Amz-Expires=86400&X-Amz-Signature=5eaece4b6c380aff6044309354ad32cc18156ebc2918a883f5ef5c46d5aa9562&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%25B0%25BD%25EC%2597%2585.png%22&x-id=GetObject)
 
@@ -22,21 +22,21 @@
 
 :memo: :memo: :memo:
 
-**1. 행정동별 서울생활인구(내국인) - 시간대,성별,나이대별 생활인구**
+**1. 행정동별 서울생활인구(내국인) - 시간대,성별,나이대별 생활인구**  
 :link: <https://data.seoul.go.kr/dataList/OA-14991/S/1/datasetView.do](https://data.seoul.go.kr/dataList/OA-14991/S/1/datasetView.do>
 
-**2. 서울시 우리마을가게 상권분석서비스(행정동별 상권변화지표)**
+**2. 서울시 우리마을가게 상권분석서비스(행정동별 상권변화지표)**  
 :link: <https://data.seoul.go.kr/dataList/OA-15575/S/1/datasetView.do>
 
-**3. 서울시 지하철호선별 역별 승하차 인원 정보**
+**3. 서울시 지하철호선별 역별 승하차 인원 정보**  
 :link: <https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do>
 
 **4. 인스타그램 게시글 크롤링(트렌드 분석)**
 
-**5. 서울시 우리마을가게 상권분석서비스(상권-추정매출)**
+**5. 서울시 우리마을가게 상권분석서비스(상권-추정매출)**  
 :link: <https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do](https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do)>
 
-**6. 교통 및 유동인구량**
+**6. 교통 및 유동인구량**  
 :link: <https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=ICTTRAF000001](https://www.bigdata-telecom.kr/invoke/SOKBP2603/?goodsCode=ICTTRAF000001>
 
 
